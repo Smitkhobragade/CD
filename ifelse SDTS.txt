@@ -1,0 +1,10 @@
+if(a<5)
+{
+
+c=b+d
+d=i+j
+} else
+{
+d=a+b 
+k=x+y
+}
